@@ -7,6 +7,8 @@
  */
 package ca.sheridancollege.project;
 
+public class card{
+}
 /**
  * A class to be used as the base Card class for the project. Must be general
  * enough to be instantiated for any Card game. Students wishing to add to the
